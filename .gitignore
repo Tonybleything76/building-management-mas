@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+.env
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Local configuration
+config/local_settings.py
